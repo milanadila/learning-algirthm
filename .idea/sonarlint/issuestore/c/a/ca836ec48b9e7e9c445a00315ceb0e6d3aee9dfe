@@ -1,0 +1,45 @@
+
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÅôõÍ8×êÓ®Ç-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¢çÛ‚ùÿÿÿÿ8Ãİ®Ç-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ôúà»8âùÚ®Ç-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú¿æ–8ôø¸®Ç-
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¸­õ¾8ƒª®Ç-
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ä¹¿“8 Õ¨®Ç-
+Bsquid:S1659"Declare "r" on a separate line.(‡Š¶€úÿÿÿÿ8¢ì¡®Ç-
+Psquid:S1199,"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8¥ãÜ®Ç-
+Ksquid:S1199&"-Extract this nested code block into a method.(ìş€¤8ÔôÖ®Ç-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı‰Ï¶8ÄìÊ®Ç-
+Ksquid:S1199"-Extract this nested code block into a method.(¹Š¯¾8ğ´®Ç-
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(°İ—8Í°©®Ç-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(©ÙÍ¾8ıï«®Ç-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åë8ñŠµ®Ç-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ®µúøÿÿÿÿ8£ Ğ®Ç-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(çÇ•áıÿÿÿÿ8ÚşÕ®Ç-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ãßÁÄúÿÿÿÿ8Ï¢×®Ç-
+U
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Î³É=8ÖûØ®Ç-
+Csquid:S1659" Declare "s2" on a separate line.(‡Š¶€úÿÿÿÿ8¢ì¡®Ç-
+Ksquid:S1199"-Extract this nested code block into a method.(ôÈêİ8°‡Ï®Ç-
+i
+squid:S128&"LEnd this switch case with an unconditional break, return or throw statement.(ìş€¤8Ãİ®Ç-
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(º¦òºüÿÿÿÿ8ôø¸®Ç-
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ƒâÏë8ıï«®Ç-
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ªè±‹8×êÓ®Ç-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(³÷ù¸8ü»¬®Ç-

@@ -1,0 +1,35 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï¶ëşÿÿÿÿ8ÏÔÎ È-
+V
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ßé¡Ë8×ı¡È-
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(™İ›Òÿÿÿÿÿ8×ı¡È-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø‚à8è‚Ğ È-
+jsquid:S00112P"FDefine and throw a dedicated exception instead of using a generic one.(ºøæúÿÿÿÿ8³½Ø¡È-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß®Âøÿÿÿÿ8µ°Ï È-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ó–ƒìùÿÿÿÿ8×ı¡È-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(é™¢øÿÿÿÿ8ëšÑ È-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖÃ×ìıÿÿÿÿ8±ÉÍ È-
+V
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ëŠ¡Ë8×ı¡È-
+esquid:S00112@"FDefine and throw a dedicated exception instead of using a generic one.(‘™Úü8°‘Ù¡È-
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Ÿ›§üÿÿÿÿ8×ı¡È-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ìÇÚ´8ºÊ ¡È-
+\squid:S2130I"9Use "Integer.parseInt" for this string-to-int conversion.(Ó©äéúÿÿÿÿ8×ı¡È-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(º ›¿8¯ÍĞ È-
+\squid:S2130S"9Use "Integer.parseInt" for this string-to-int conversion.(Ó©äéúÿÿÿÿ8×ı¡È-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ¢“Ÿ8§èÑ È-
+esquid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(¹ˆ¡ü8°‘Ù¡È-
+Wsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ÕŸÁ8‰âÖ È-
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ßé¡Ë8×ı¡È-

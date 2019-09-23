@@ -1,0 +1,16 @@
+
+@squid:S1659
+""Declare "gaji" on a separate line.(ôÿÊÊ8¬ß¢ØÆ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ƒ¦ùÿÿÿÿ8ÒĞ±ØÆ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(êã˜”ùÿÿÿÿ8†³¬ØÆ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(šßĞ¶ıÿÿÿÿ8Ì´«ØÆ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(§Í8¦±ØÆ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜŸÉ³8³Ğ²ØÆ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µº·×8Áã¨ØÆ-
+^squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8äÚ†ÙÆ-
