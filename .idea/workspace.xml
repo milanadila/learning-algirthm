@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eb52b41-df1a-49a8-9086-0e41c1fcf1bd" name="Default Changelist" comment="" />
+    <list default="true" id="4eb52b41-df1a-49a8-9086-0e41c1fcf1bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Reversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Reversed.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +30,7 @@
             <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BirthdayCake.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
-                  <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+                  <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -62,11 +66,20 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Reversed.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="195">
-                  <caret line="13" selection-start-line="13" selection-end-line="13" />
+                  <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="22" selection-start-line="22" selection-end-line="22" />
                 </state>
               </provider>
             </entry>
@@ -82,6 +95,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BirthdayCake.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Reversed.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java" />
       </list>
     </option>
   </component>
@@ -139,6 +156,9 @@
     <option name="y" value="23" />
     <option name="width" value="2048" />
     <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -258,7 +278,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569228751700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569233137258" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -275,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reversed">
+  <component name="RunManager" selected="Application.MigratoryBirds">
     <configuration name="ApplenOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.ApplenOrange" />
       <module name="belajar" />
@@ -315,8 +335,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BonApetite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.BonApetite" />
+    <configuration name="MigratoryBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.MigratoryBirds" />
       <module name="belajar" />
       <extension name="coverage">
         <pattern>
@@ -344,17 +364,17 @@
     <list>
       <item itemvalue="Application.ApplenOrange" />
       <item itemvalue="Application.BirthdayCake" />
-      <item itemvalue="Application.BonApetite" />
       <item itemvalue="Application.Reversed" />
       <item itemvalue="Application.BeautifulDay" />
+      <item itemvalue="Application.MigratoryBirds" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MigratoryBirds" />
         <item itemvalue="Application.Reversed" />
         <item itemvalue="Application.BeautifulDay" />
         <item itemvalue="Application.BirthdayCake" />
         <item itemvalue="Application.ApplenOrange" />
-        <item itemvalue="Application.BonApetite" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +397,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.333001" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -418,10 +437,10 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Reversed.java</url>
-          <line>4</line>
+          <url>file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java</url>
+          <line>9</line>
           <properties />
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -770,17 +789,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Reversed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BirthdayCake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Reversed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
