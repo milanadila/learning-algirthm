@@ -79,3 +79,13 @@ r
 Bsrc/com/dicoding/javafundamental/belajar/hackerank/BonApetite.java,4/7/47e2f837d5a37fe79ea54bbd254e6e653de69689
 t
 Dsrc/com/dicoding/javafundamental/belajar/hackerank/BirthdayCake.java,1/8/18d18a3b9ce0971ec02b0f2e0f80a2c8fe7449db
+t
+Dsrc/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java,f/3/f397456c85bec4e7fde7ce3fcfab7be2f2ee87ad
+f
+6src/com/dicoding/javafundamental/belajar/Reversed.java,2/e/2eba79a7b91899506d077db56eda6aa7da1c9c0e
+v
+Fsrc/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java,9/2/929c230d7e5a59d41b3d20b435eb19a2df061246
+u
+Esrc/com/dicoding/javafundamental/belajar/hackerank/TheHurdleRace.java,6/3/633b1f49a7e3c55ab258aa6e29e93399e84fcbce
+s
+Csrc/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java,b/8/b8a23bb7f1b1d8bb22e586cd2c7a48d23ff23408
