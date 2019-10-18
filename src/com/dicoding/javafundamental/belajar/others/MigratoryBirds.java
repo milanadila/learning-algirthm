@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.belajar.hackerank;
+package com.dicoding.javafundamental.belajar.others;
 
 import java.util.Scanner;
 

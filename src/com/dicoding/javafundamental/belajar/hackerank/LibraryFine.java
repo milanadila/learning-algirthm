@@ -22,10 +22,10 @@ public class LibraryFine {
 
         int hackosFine = 0;
 
-        //if statement that checks starting at the years and proceeds based on equivalence
-        //Year is off  - 10,000 hackos
-        //Month is off - months * 500 hackos
-        //Day is off   - days * 15 hackos
+
+        //Year is off  - 10,000
+        //Month is off - months * 500
+        //Day is off   - days * 15
 
         if (expectedYear < returnYear) {
             hackosFine = 10000;

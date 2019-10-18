@@ -1,0 +1,18 @@
+
+Hsquid:S1481"*Remove this unused "count" local variable.(æÕ¿¼8Ë×ËÉÝ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(„×Á”8ž¦¿ÉÝ-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(©‘°Z8ž¦¿ÉÝ-
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(¾˜ÿø8ôƒ¿ÉÝ-
+[squid:S1197"8Move the array designator from the variable to the type.(£Ê„÷ûÿÿÿÿ8Ë×ËÉÝ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8¢ÃØÉÝ-
+nsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(–¸ÚÉýÿÿÿÿ8ôƒ¿ÉÝ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(É³Žúÿÿÿÿ8äòÍÉÝ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(®Ó¨ãøÿÿÿÿ8ž¦¿ÉÝ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†¤§à8–£°ÊÝ-
+Gsquid:S1481")Remove this unused "scan" local variable.(ÅÒ²º8–£°ÊÝ-
+Vsquid:S1854"8Remove this useless assignment to local variable "scan".(ÅÒ²º8–£°ÊÝ-

@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb52b41-df1a-49a8-9086-0e41c1fcf1bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/CompareTheTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/PlusMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/SockMerchant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Staircase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/TheHurdleRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Encryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/ExtraLongFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/GreedyFlorist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/Magic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67c8b0529c52f63bd62d57ad132de0fea40ab182" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67c8b0529c52f63bd62d57ad132de0fea40ab182" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/929c230d7e5a59d41b3d20b435eb19a2df061246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8a23bb7f1b1d8bb22e586cd2c7a48d23ff23408" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8a23bb7f1b1d8bb22e586cd2c7a48d23ff23408" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca836ec48b9e7e9c445a00315ceb0e6d3aee9dfe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca836ec48b9e7e9c445a00315ceb0e6d3aee9dfe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar/META-INF/belajar.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar/com/dicoding/javafundamental/belajar/hackerank/DiagonalDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar/com/dicoding/javafundamental/belajar/hackerank/SockMerchant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/belajar/com/dicoding/javafundamental/belajar/hackerank/Staircase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/DiagonalDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/MigratoryBirds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/SockMerchant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/SockMerchant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Staircase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/Staircase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +33,90 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/belajar$Encryption.ic" NAME="Encryption Coverage Results" MODIFIED="1571308303731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dicoding.javafundamental.belajar.hackerank.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43843845">
+    <splitter split-orientation="horizontal" split-proportion="0.78120977">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/GreedyFlorist.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+                <state relative-caret-position="315">
+                  <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Encryption.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="345">
+                  <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Solution.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="302">
+                  <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/PlusMinus.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/TheHurdleRace.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="355">
+                  <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BirthdayCake.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -45,89 +131,10 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/TheHurdleRace.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="630">
-                  <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/CompareTheTriplets.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="55" selection-start-column="55" selection-end-column="55" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/DiagonalDifference.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" selection-start-line="9" selection-end-line="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/PlusMinus.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Staircase.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" selection-start-line="17" selection-end-line="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="25" selection-start-column="25" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/ApplenOrange.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/SockMerchant.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="480">
-                  <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="30">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -150,15 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/ScannerContoh.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/PercabanganIf.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/PercabanganIfElse.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/PercabanganIfElseIf.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/PerulanganForEach.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/PerulanganWhile.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/PerulanganDoWhile.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/HashMapBelajar.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/objek/Hewan.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/objek/Main.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/inheritance/Kucing.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/inheritance/Hewan.java" />
@@ -191,20 +189,29 @@
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BonApetite.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/ApplenOrange.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BirthdayCake.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Reversed.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/CompareTheTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/DiagonalDifference.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/PlusMinus.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Staircase.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/TheHurdleRace.java" />
-        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java" />
         <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/SockMerchant.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/MigratoryBirds.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/Staircase.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/DiagonalDifference.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/SockMerchant.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/Magic.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/ExtraLongFactorial.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/GreedyFlorist.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Encryption.java" />
+        <option value="$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="2048" />
     <option name="height" value="1060" />
@@ -217,6 +224,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,6 +305,13 @@
               <item name="belajar" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="belajar" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="belajar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="belajar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="belajar" type="462c0819:PsiDirectoryNode" />
               <item name="setget" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -323,16 +339,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569403417194" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571406296218" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -347,9 +362,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SockMerchant">
-    <configuration name="MigratoryBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.MigratoryBirds" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.Encryption" />
       <module name="belajar" />
       <extension name="coverage">
         <pattern>
@@ -361,8 +376,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusMinus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.PlusMinus" />
+    <configuration name="ExtraLongFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.ExtraLongFactorial" />
+      <module name="belajar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.belajar.hackerank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreedyFlorist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.GreedyFlorist" />
       <module name="belajar" />
       <extension name="coverage">
         <pattern>
@@ -375,11 +403,11 @@
       </method>
     </configuration>
     <configuration name="SockMerchant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.SockMerchant" />
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.others.SockMerchant" />
       <module name="belajar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.belajar.hackerank.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.belajar.others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,21 +415,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Staircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.Staircase" />
-      <module name="belajar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.belajar.hackerank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TheHurdleRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.TheHurdleRace" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.belajar.hackerank.Solution" />
       <module name="belajar" />
       <extension name="coverage">
         <pattern>
@@ -414,19 +429,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PlusMinus" />
-      <item itemvalue="Application.Staircase" />
-      <item itemvalue="Application.TheHurdleRace" />
-      <item itemvalue="Application.MigratoryBirds" />
       <item itemvalue="Application.SockMerchant" />
+      <item itemvalue="Application.ExtraLongFactorial" />
+      <item itemvalue="Application.Encryption" />
+      <item itemvalue="Application.GreedyFlorist" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Encryption" />
+        <item itemvalue="Application.GreedyFlorist" />
+        <item itemvalue="Application.ExtraLongFactorial" />
         <item itemvalue="Application.SockMerchant" />
-        <item itemvalue="Application.MigratoryBirds" />
-        <item itemvalue="Application.TheHurdleRace" />
-        <item itemvalue="Application.Staircase" />
-        <item itemvalue="Application.PlusMinus" />
       </list>
     </recent_temporary>
   </component>
@@ -448,26 +463,26 @@
     <option name="totallyTimeSpent" value="3641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2048" height="1152" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13808574" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22532403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32994455" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32347503" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983364" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3770795" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33641404" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32902032" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2624769" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32809612" />
       <window_info anchor="bottom" id="Docker" order="12" />
@@ -481,56 +496,29 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32951146" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/DiagonalDifference.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arry" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>arry[k][i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/modifier/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/contohinterface/Hewan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/contohinterface/Anjing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/Buffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/FormatString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/accesmodifier/KelasA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -589,57 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/BangunDatar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/Lingkaran.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/PersegiPanjang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/Segitiga.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -729,13 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/ArrayListBelajar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/BilanganPangkat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -806,73 +736,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BonApetite.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/MigratoryBirds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/Staircase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BirthdayCake.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/SockMerchant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/Lingkaran.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/BangunDatar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="75">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/CompareTheTriplets.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/Segitiga.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        <state relative-caret-position="195">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/DiagonalDifference.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/bangundatar/PersegiPanjang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/PlusMinus.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/ExtraLongFactorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+        <state relative-caret-position="210">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Staircase.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/DiagonalDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/TheHurdleRace.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/others/Magic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/MigratoryBirds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -883,10 +842,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/SockMerchant.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BirthdayCake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BonApetite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/CompareTheTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/LibraryFine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/BeautifulDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/PlusMinus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/TheHurdleRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/GreedyFlorist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Encryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/ArrayListBelajar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dicoding/javafundamental/belajar/hackerank/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

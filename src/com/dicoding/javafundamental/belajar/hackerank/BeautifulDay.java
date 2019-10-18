@@ -6,7 +6,7 @@ public class BeautifulDay {
         int j = 23;
         int k = 6;
         int days = 0;
-        int ax= 0;
+        int ax;
 
         for (int x = i; x <= j; x++) {
             int reverse = 0;
