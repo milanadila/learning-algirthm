@@ -1,16 +1,16 @@
 
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ùÔñðûÿÿÿÿ8Œ’È³Ö-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ÃíÞÝ8Ò§¼³Ö-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(ß§³·8ˆˆÎ³Ö-
 Msquid:S1066$"/Merge this if statement with the enclosing one.(·–“Á8å…¹³Ö-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ëÖœ‰8õ¾Ë³Ö-
-V
-squid:S106)"9Replace this use of System.out or System.err by a logger.(ÃíÞÝ8Ò§¼³Ö-
-[
-squid:S106	"9Replace this use of System.out or System.err by a logger.(ùÔñðûÿÿÿÿ8Œ’È³Ö-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ž‰÷åþÿÿÿÿ8¿ÙÊ³Ö-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(¸Íý„ûÿÿÿÿ8¨§Ì³Ö-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÂä¸ùÿÿÿÿ8ÑùÌ³Ö-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÖœ‰8õ¾Ë³Ö-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ž‰÷åþÿÿÿÿ8¿ÙÊ³Ö-

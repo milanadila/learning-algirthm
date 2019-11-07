@@ -1,0 +1,19 @@
+
+nsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(Õè†–ýÿÿÿÿ8€ÕúòÝ-
+[squid:S1197&"8Move the array designator from the variable to the type.(£ðý›þÿÿÿÿ8ŠöÝ-
+nsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(÷ò‚˜ÿÿÿÿÿ8ñÏáõÝ-
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ˆ¸íøÝ-
+¤%squid:RedundantThrowsDeclarationCheckM"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8£œúòÝ-
+Vsquid:S1197"8Move the array designator from the variable to the type.(Ó”“½8´¬£õÝ-
+‹ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ãÁÞøÝ-
+isquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(õÏ¾¤8ñÏáõÝ-
+Nsquid:S1068K"+Remove this unused "scanner" private field.(‚ïèýÿÿÿÿ8ÊÖžóÝ-
+nsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(Áíýµÿÿÿÿÿ8£œúòÝ-
+isquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(êË¥ì8£œúòÝ-
+squid:S14888"^Immediately return this expression instead of assigning it to the temporary variable "joined".(Í€û¶øÿÿÿÿ8÷áøÝ-
+:squid:S16434"Use a StringBuilder instead.(ó’å‚8¶üÆ÷Ý-
+Hsquid:S1481"*Remove this unused "count" local variable.(æÕ¿¼8£àòÝ-
+[squid:S1197"8Move the array designator from the variable to the type.(£Ê„÷ûÿÿÿÿ8…‚°ôÝ-
+isquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(‹×Ö8ÊÖžóÝ-
+nsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(Øæœ€øÿÿÿÿ8áÞùòÝ-

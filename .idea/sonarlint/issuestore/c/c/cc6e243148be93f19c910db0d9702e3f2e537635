@@ -1,0 +1,5 @@
+
+Fsquid:S1068"(Remove this unused "data" private field.(£´Çì8üÒà„á-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë‹å¹üÿÿÿÿ8üÒà„á-
+Ysquid:UnusedPrivateMethod"(Remove this unused private "msg" method.(Ğğ¥şÿÿÿÿ8üÒà„á-
