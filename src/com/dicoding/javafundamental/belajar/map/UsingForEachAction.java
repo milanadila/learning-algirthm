@@ -11,6 +11,6 @@ public class UsingForEachAction {
         customers.put(3, "amalia");
 
         // for each(action) method to iterate map
-        customers.forEach((k, v) -> System.out.println("key : " + k + ", value : " + v));
+        customers.forEach((k, v) -> System.out.println(k + " : " + v));
     }
 }

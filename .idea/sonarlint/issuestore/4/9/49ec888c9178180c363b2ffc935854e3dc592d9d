@@ -1,0 +1,8 @@
+
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ûŸ€Êæ-
+asquid:S3518"CMake sure this expression can't be zero before doing this division.(ØîåÚ8¾ÿşÉæ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´Üú«øÿÿÿÿ8ÀÊæ-
+Gsquid:S1481")Remove this unused "data" local variable.(ØîåÚ8¾ÿşÉæ-
+Vsquid:S1854"8Remove this useless assignment to local variable "data".(ØîåÚ8¾ÿşÉæ-

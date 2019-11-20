@@ -1,13 +1,13 @@
 
-V
-squid:S106!"9Replace this use of System.out or System.err by a logger.(¼Ã¼¸8šÓ·Íã-
+xsquid:S4144 "ZUpdate this method so that its implementation is not identical to "computePay" on line 26.(„€³™8¯†ı€ä-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(˜ÏÚ8ÒªéÌã-
 ]squid:S1161":Add the "@Override" annotation above this method signature(ÿØ‹úşÿÿÿÿ8¶– ÿã-
+2squid:S1700"Rename field "salary"(ó«åG8ëºÚÌã-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(¼Ã¼¸8¶– ÿã-
-Xsquid:S1161":Add the "@Override" annotation above this method signature(Œ×ö®8ê‡éÌã-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(°Øà“ûÿÿÿÿ8áşéÌã-
-2squid:S1700"Rename field "salary"(ó«åG8ëºÚÌã-
-xsquid:S4144 "ZUpdate this method so that its implementation is not identical to "computePay" on line 26.(„€³™8¯†ı€ä-
+Xsquid:S1161":Add the "@Override" annotation above this method signature(Œ×ö®8ê‡éÌã-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¼Ã¼¸8šÓ·Íã-

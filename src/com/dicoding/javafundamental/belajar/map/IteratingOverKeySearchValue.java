@@ -14,7 +14,7 @@ public class IteratingOverKeySearchValue {
         for (Integer key : customers.keySet()) {
             //searching for values
             String name = customers.get(key);
-            System.out.println("key : " + key + ", values : " + name);
+            System.out.println(key + " : " + name);
         }
     }
 }

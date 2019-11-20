@@ -16,7 +16,7 @@ public class IteratingUsingIterators {
 
         while (iterator.hasNext()) {
             Map.Entry<Integer, String> entry = iterator.next();
-            System.out.println("key : " + entry.getKey() + ", value : " + entry.getValue());
+            System.out.println(entry.getKey() + " : " + entry.getValue());
         }
     }
 }

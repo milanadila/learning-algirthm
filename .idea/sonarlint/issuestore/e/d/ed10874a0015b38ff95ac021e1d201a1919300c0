@@ -1,10 +1,10 @@
 
-Msquid:S2387"*"name" is the name of a field in "Person".(æÕ“òúÿÿÿÿ8°£¬„Ç-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÀ¾¹úÿÿÿÿ8‘şÆ-
-Lsquid:S2387")"age" is the name of a field in "Person".(ã¢—¹ıÿÿÿÿ8°£¬„Ç-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(»Í—8êğşÆ-
 V
 squid:S106
 "9Replace this use of System.out or System.err by a logger.(ù¡ıŠ8Ü”şÆ-
+Lsquid:S2387")"age" is the name of a field in "Person".(ã¢—¹ıÿÿÿÿ8°£¬„Ç-
+Msquid:S2387"*"name" is the name of a field in "Person".(æÕ“òúÿÿÿÿ8°£¬„Ç-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÀ¾¹úÿÿÿÿ8‘şÆ-
