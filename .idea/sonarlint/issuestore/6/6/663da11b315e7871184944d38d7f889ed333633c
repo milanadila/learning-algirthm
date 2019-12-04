@@ -1,9 +1,9 @@
 
-Xsquid:S1854"5Remove this useless assignment to local variable "a".(ã«„µıÿÿÿÿ8ãÏîéç-
-Dsquid:S2129"!Remove this "Integer" constructor(óÙ…ùÿÿÿÿ8¥Öˆêç-
-Ysquid:S1854"6Remove this useless assignment to local variable "ab".(óÙ…ùÿÿÿÿ8…ù‚êç-
 Jsquid:S1481"'Remove this unused "ab" local variable.(óÙ…ùÿÿÿÿ8…ù‚êç-
+Dsquid:S2129"!Remove this "Integer" constructor(óÙ…ùÿÿÿÿ8¥Öˆêç-
 [
 squid:S106
 "9Replace this use of System.out or System.err by a logger.(ãŒÂÔøÿÿÿÿ8•·³îå-
+Xsquid:S1854"5Remove this useless assignment to local variable "a".(ã«„µıÿÿÿÿ8ãÏîéç-
+Ysquid:S1854"6Remove this useless assignment to local variable "ab".(óÙ…ùÿÿÿÿ8…ù‚êç-
 Isquid:S1481"&Remove this unused "a" local variable.(ã«„µıÿÿÿÿ8ãÏîéç-

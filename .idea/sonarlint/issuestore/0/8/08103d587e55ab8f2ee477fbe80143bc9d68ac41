@@ -1,0 +1,5 @@
+
+Ksquid:S1068	"(Remove this unused "roro" private field.(ƒ’¥ıÿÿÿÿ8¾÷°ë-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñÕ©õ8Ô¸õ°ë-
+Psquid:S1068"2Remove this unused "testProperties" private field.(Êù·8¾÷°ë-
+Wsquid:S3400"9Remove this method and declare a constant for this value.(”·³›8¿¯ö°ë-

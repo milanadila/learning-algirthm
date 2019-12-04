@@ -1,0 +1,11 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Åíôèþÿÿÿÿ8ÅÞÂé-
+Xsquid:S1133	"5Do not forget to remove this deprecated code someday.(îËÍ’ýÿÿÿÿ8àù¹é-
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(¸ÅË´8ë²ºé-
+\squid:MissingDeprecatedCheck	"(Add the missing @deprecated Javadoc tag.(îËÍ’ýÿÿÿÿ8àù¹é-
+Ssquid:S1854"5Remove this useless assignment to local variable "a".(¶»øÖ8ÅÞÂé-
+Dsquid:S1481"&Remove this unused "a" local variable.(¶»øÖ8ÅÞÂé-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬Œ¬8Žô¸é-
