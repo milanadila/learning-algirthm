@@ -1,5 +1,5 @@
 
-Š"squid:ClassVariableVisibilityCheck"PMake suit a static final constant or non-public and provide accessors if needed.(¥…”Àøÿÿÿÿ8Î†ıë-
 U
 squid:S106"9Replace this use of System.out or System.err by a logger.(ìõA8ÈÎ‹‚ë-
 ‘"squid:ClassVariableVisibilityCheck"WMake valueOfCard a static final constant or non-public and provide accessors if needed.(í‡»³şÿÿÿÿ8Î†ıë-
+Š"squid:ClassVariableVisibilityCheck"PMake suit a static final constant or non-public and provide accessors if needed.(¥…”Àøÿÿÿÿ8Î†ıë-

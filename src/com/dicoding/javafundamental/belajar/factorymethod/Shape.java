@@ -1,8 +1,11 @@
 package com.dicoding.javafundamental.belajar.factorymethod;
+/**
+ * Product interface
+ */
+//public interface Mobil {
+//
+//    void ban();
+//    lampu
+//    mesin
+//}
 
-public interface Shape {
-
-    void draw();
-}
-
-// create a Shape abstract class

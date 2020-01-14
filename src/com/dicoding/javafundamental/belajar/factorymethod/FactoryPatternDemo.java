@@ -1,8 +1,11 @@
 package com.dicoding.javafundamental.belajar.factorymethod;
 
+/**
+ * Client
+ */
 public class FactoryPatternDemo {
 
-    // FactoryPatternDemo by using the ShapeFactory to get the object of concrete classes by passing an information such as type of shape RECTANGLE or SQUARE or CIRCLE.
+    // FactoryPatternDemo using the ShapeFactory to get the object of concrete classes by passing an information such as type of shape RECTANGLE or SQUARE or CIRCLE.
 
     public static void main(String[] args) {
         ShapeFactory shapeFactory = new ShapeFactory();

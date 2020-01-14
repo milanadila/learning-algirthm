@@ -1,12 +1,17 @@
 package com.dicoding.javafundamental.belajar.factorymethod;
 
-public class Rectangle implements Shape {
-
-    @Override
-    public void draw() {
-        System.out.println("Inside Rectangle::draw() method.");
-    }
-}
+/**
+ * Concrete Product
+ */
+//public class Porsche implements Mobil {
+//
+//    @Override
+//    public void ban() {
+//        System.out.println("Inside Rectangle::draw() method.");
+//    }
+//    lamou
+//    mesin
+//}
 
 
 // create the concrete classes that implements abstract class
